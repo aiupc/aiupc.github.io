@@ -83,7 +83,7 @@ deploy:
     # github: git@github.com:aiupc/aiupc.github.io.git
     github: https://github.com/aiupc/aiupc.github.io.git
     # coding: https://github.com/aiupc/aiupc.github.io.git
-  branch: master
+  branch: main
 
 # backup
 backup:
