@@ -4,9 +4,9 @@ siteName: 班级小窝
 # favicon and site master avatar
 favicon: /images/favicon.ico
 avatar: /img/custom/avatar.jpg
-url: https://sakura.hojun.cn
+url: 
 description: 求真 务实 快乐 有为
-cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
+cdn: https://cdn.jsdelivr.net/gh/aiupc/cdn@1.9
 pjax: 1
 # 1开启
 mathjax: 0
@@ -16,16 +16,16 @@ lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progre
 
 menus:
   # 首页: { path: /, fa: fa-fort-awesome faa-shake }
-  班级活动: {path: /categories/班级活动/, fa: fa-book}
-  文化建设: {submenus: {
-    美食: {path: /categories/美食/, fa: fa-code },
-    电影: {path: /categories/电影/, fa: fa-code },
-    书籍: {path: /categories/书籍/, fa: fa-code },
-    随笔: {path: /categories/随笔/, fa: fa-code }
+  班级活动: {path: /categories/班级活动/, fa: fa-photo }
+  文化建设: {fa: fa-headphones, submenus: {
+    美食: {path: /categories/美食/, fa: fa-apple },
+    电影: {path: /categories/电影/, fa: fa-film },
+    书籍: {path: /categories/书籍/, fa: fa-book },
+    随笔: {path: /categories/随笔/, fa: fa-commenting-o }
   }}
   归档: { path: /archives, fa: fa-archive faa-shake}
-  班级周记: { path: /categories/班级周记/, fa: fa-code }
-  荣誉墙: { path: /荣誉墙/, fa: fa-code }
+  班级周记: { path: /categories/班级周记/, fa: fa-file-text-o  }
+  荣誉墙: { path: /荣誉墙/, fa: fa-angellist }
   留言板: { path: /comment/, fa: fa-pencil-square-o faa-tada }
   关于我们: { path: /关于我们/, fa: fa-leaf faa-wrench }
 
@@ -55,7 +55,7 @@ siteBuildingTime: 01/12/2022
 #social  url, img PC端配置
 social:
   github: {url: http://github.com/aiupc, img: /img/social/github.png, color: 25c6fe}
-  qq: {url: https://jq.qq.com/?_wv=1027&k=FKbj67jm, fa: fa-qq, color: 25c6fe}
+  qq: {url: https://jq.qq.com/?_wv=1027&k=FKbj67jm, img: /img/social/qq.png, color: 25c6fe}
   # sina: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/sina.png}
   # wangyiyun: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/wangyiyun.png}
   # zhihu: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/zhihu.png}
@@ -95,8 +95,8 @@ aplayer:
 
 # Valine
 valine: true
-v_appId: GyC3NzMvd0hT9Yyd2hYIC0MN-gzGzoHsz
-v_appKey: mgOpfzbkHYqU92CV4IDlAUHQ
+v_appId: Ge18SeprCzw0zOeMEwBUHGRx-gzGzoHsz
+v_appKey: 9LBBsah6dRJh4BttwjEnDL9T
 
 # Waline
 waline:

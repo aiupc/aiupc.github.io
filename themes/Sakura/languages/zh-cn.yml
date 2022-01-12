@@ -41,14 +41,30 @@ insight:
     untitled: '(无标题)'
 
 #category
-技术:
-    zh: 野生技术协会
-    en: Geek – Only for Love
-    img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/coding.jpg
-生活:
-    zh: 生活
-    en: live
-    img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/writing.jpg
+班级活动:
+    zh: 班级活动
+    en: activities
+    img: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/方阵.jpeg
+美食:
+    zh: 美食
+    en: food
+    img: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/烤肉饭.jpeg
+电影:
+    zh: 电影
+    en: filem
+    img: https://gitee.com/aiupc/drawing-bed/raw/master/img/image-2-1024x683.png
+书籍:
+    zh: 书籍
+    en: book
+    img: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/撒哈拉的故事.jpeg
+随笔:
+    zh: 随笔
+    en: easygoing
+    img: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/随笔.jpeg
+班级周记:
+    zh: 班级周记
+    en: record
+    img: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/奖学金现场.jpeg
 
 #tag
 悦读:
