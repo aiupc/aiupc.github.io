@@ -36,8 +36,9 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  # - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(1).jpg.webp
-  - https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/班级合影.webp
+  - https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/班级合影压缩.jpg
+  - https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/拔河比赛.jpeg
+  - https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/班级合影2.png
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
 
@@ -54,19 +55,13 @@ siteBuildingTime: 01/12/2022
 
 #social  url, img PC端配置
 social:
-  github: {url: http://github.com/aiupc, img: /img/social/github.png, color: 25c6fe}
+  github: {url: http://github.com/aiupc, img: /img/social/github.png, color: 333}
   qq: {url: https://jq.qq.com/?_wv=1027&k=FKbj67jm, img: /img/social/qq.png, color: 25c6fe}
-  # sina: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/sina.png}
-  # wangyiyun: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/wangyiyun.png}
-  # zhihu: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/zhihu.png}
-  # email: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/email.svg}
-  # wechat: {url: /#, qrcode: /img/custom/wechat.jpg, img: /img/social/wechat.png}
-  # wechat2: {url: /#, qrcode: /img/custom/wechat.jpg, img: /img/social/wechat.png}
+
 
 #social  url, img 移动端配置
 msocial:
   github: {url: http://github.com/honjun, fa: fa-github, color: 333}
-  weibo: {url: http://weibo.com/mashirozx?is_all=1, fa: fa-weibo, color: dd4b39}
   qq: {url: https://wpa.qq.com/msgrd?v=3&uin=954655431&site=qq&menu=yes, fa: fa-qq, color: 25c6fe}
 
 donate:
