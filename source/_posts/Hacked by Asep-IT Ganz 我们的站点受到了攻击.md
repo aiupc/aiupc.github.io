@@ -1,11 +1,11 @@
 ---
 title: Hacked by Asep-IT Ganz 我们的站点受到了攻击
-author: 
+author: 孙百乐
 avatar: 
 authorLink: 
 authorAbout: 
 authorDesc: 
-categories: 
+categories: 班级活动
 comments: true
 tags: []
 id: '1600'
@@ -19,7 +19,7 @@ photos:
 
   **简讯：**2021年11月11日，一个自称为Asep-IT Ganz的组织（或个人）对我们的班级网站进行了渗透攻击。导致网站无法正常访问，首页被篡改如下图所示。
 
-![](https://www.aiupc.xyz/wp-content/uploads/2021/11/网站攻击.png)
+![](https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/网站攻击.png)
 
 ## 紧急处理措施
 

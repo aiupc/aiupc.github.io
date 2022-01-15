@@ -1,11 +1,11 @@
 ---
 title: E路有你，AI我本研-篮球比赛
-author: 
+author: 孙鹏程
 avatar: 
 authorLink: 
 authorAbout: 
 authorDesc: 
-categories: 
+categories: 班级活动
 comments: true
 tags: []
 id: '11'

@@ -1,11 +1,11 @@
 ---
 title: 本研AI合唱比赛第二次排练正在进行
-author: 
+author: 孙百乐
 avatar: 
 authorLink: 
 authorAbout: 
 authorDesc: 
-categories: 
+categories: 班级活动
 comments: true
 tags: []
 id: '293'
@@ -25,4 +25,4 @@ photos:
 
 不过还好，以上问题都是可以通过练习来解决的，总体上来说，这次排练的效果比上次好很多，大家继续加油，心理上看淡比赛，态度上认真对待！ 投稿人：孙百乐
 
-![](https://www.aiupc.xyz/wp-content/uploads/2020/10/合唱比赛-300x225.jpg)
+![](https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/合唱比赛-300x225.jpg)
