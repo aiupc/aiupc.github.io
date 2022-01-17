@@ -1,9 +1,9 @@
 ---
 title: 本研AI合唱比赛第二次排练正在进行
 author: 孙百乐
-avatar: 
+avatar: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/孙百乐头像.jpg
 authorLink: 
-authorAbout: 
+authorAbout: 读万卷书，行万里路
 authorDesc: 
 categories: 班级活动
 comments: true
@@ -11,8 +11,8 @@ tags: []
 id: '293'
 date: 2020-10-27 12:36:12
 keywords:
-description:
-photos:
+description: 今天本研一体化班（人工智能类）全班同学又齐聚活动室练习《相信我们会创造奇迹》和《北京石油学院学生之歌...
+photos: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/合唱比赛-300x225.jpg
 ---
 
 今天本研一体化班（人工智能类）全班同学又齐聚活动室练习《相信我们会创造奇迹》和《北京石油学院学生之歌》，全体同学均准时到达训练场。

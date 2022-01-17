@@ -1,9 +1,9 @@
 ---
 title: Spoken English Test
 author: 孙鹏程
-avatar: 
+avatar: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/孙鹏程头像.jpg
 authorLink: 
-authorAbout: 
+authorAbout: 昨晚上大分
 authorDesc: 
 categories: 班级活动
 comments: true
@@ -11,8 +11,8 @@ tags: []
 id: '1125'
 date: 2021-06-06 17:52:22
 keywords:
-description:
-photos:
+description:  Just This?
+photos: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/20220117233902.png
 ---
 
 # Just This?

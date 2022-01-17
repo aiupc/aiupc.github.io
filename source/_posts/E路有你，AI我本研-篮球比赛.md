@@ -1,9 +1,9 @@
 ---
 title: E路有你，AI我本研-篮球比赛
 author: 孙鹏程
-avatar: 
+avatar: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/孙鹏程头像.jpg
 authorLink: 
-authorAbout: 
+authorAbout: 昨晚上大分
 authorDesc: 
 categories: 班级活动
 comments: true
@@ -11,8 +11,8 @@ tags: []
 id: '11'
 date: 2020-10-23 07:33:22
 keywords:
-description:
-photos:
+description:  北风呼啸，寒意渐浓，秋风既起，本研出征！
+photos: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/20220117232852.png
 ---
 
 ## 北风呼啸，寒意渐浓，秋风既起，本研出征！

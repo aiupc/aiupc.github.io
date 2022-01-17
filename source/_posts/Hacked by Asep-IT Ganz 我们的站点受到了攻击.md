@@ -1,9 +1,9 @@
 ---
 title: Hacked by Asep-IT Ganz 我们的站点受到了攻击
 author: 孙百乐
-avatar: 
+avatar: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/孙百乐头像.jpg
 authorLink: 
-authorAbout: 
+authorAbout: 读万卷书，行万里路
 authorDesc: 
 categories: 班级活动
 comments: true
@@ -11,8 +11,8 @@ tags: []
 id: '1600'
 date: 2021-11-13 16:43:07
 keywords:
-description:
-photos:
+description:  我们的站点受到了攻击
+photos: https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/网站攻击.png
 ---
 
 ## 我们的站点受到了攻击
