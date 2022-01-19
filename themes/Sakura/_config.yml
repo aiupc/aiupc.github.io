@@ -15,16 +15,16 @@ notice: 新的本研小窝初建完成，更快的速度，更加安全...
 lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
 
 menus:
-  # 首页: { path: /, fa: fa-fort-awesome faa-shake }
+  首页: { path: /, fa: fa-fort-awesome faa-shake }
   班级活动: {path: /categories/班级活动/, fa: fa-photo }
-  文化建设: {fa: fa-headphones, submenus: {
+  班级周记: { path: /categories/班级周记/, fa: fa-file-text-o  }
+  其它归档: {path: /archives, fa: fa-archive faa-shake, submenus: {
     美食: {path: /categories/美食/, fa: fa-apple },
     电影: {path: /categories/电影/, fa: fa-film },
     书籍: {path: /categories/书籍/, fa: fa-book },
     随笔: {path: /categories/随笔/, fa: fa-commenting-o }
   }}
-  归档: { path: /archives, fa: fa-archive faa-shake}
-  班级周记: { path: /categories/班级周记/, fa: fa-file-text-o  }
+  # 归档: { path: /archives, fa: fa-archive faa-shake}
   荣誉墙: { path: /荣誉墙/, fa: fa-angellist }
   留言板: { path: /comment/, fa: fa-pencil-square-o faa-tada }
   关于我们: { path: /关于我们/, fa: fa-leaf faa-wrench }
@@ -38,7 +38,6 @@ homeArticleShown: 10
 bg:
   - https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/班级合影压缩.jpg
   - https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/拔河比赛.jpeg
-  - https://cdn.jsdelivr.net/gh/aiupc/drawingbed/img/班级合影2.png
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
 
@@ -61,8 +60,8 @@ social:
 
 #social  url, img 移动端配置
 msocial:
-  github: {url: http://github.com/honjun, fa: fa-github, color: 333}
-  qq: {url: https://wpa.qq.com/msgrd?v=3&uin=954655431&site=qq&menu=yes, fa: fa-qq, color: 25c6fe}
+  github: {url: http://github.com/aiupc, fa: fa-github, color: 333}
+  qq: {url: https://jq.qq.com/?_wv=1027&k=FKbj67jm, fa: fa-qq, color: 25c6fe}
 
 donate:
   paypal: https://www.paypal.me/hojuncn
