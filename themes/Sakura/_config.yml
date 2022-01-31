@@ -15,7 +15,7 @@ notice: 新的本研小窝初建完成，更快的速度，更加安全...
 lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
 
 menus:
-  首页: { path: /, fa: fa-fort-awesome faa-shake }
+  首页: { path: /}
   班级活动: {path: /categories/班级活动/, fa: fa-photo }
   班级周记: { path: /categories/班级周记/, fa: fa-file-text-o  }
   其它归档: {path: /archives, fa: fa-archive faa-shake, submenus: {
@@ -64,10 +64,10 @@ msocial:
   qq: {url: https://jq.qq.com/?_wv=1027&k=FKbj67jm, fa: fa-qq, color: 25c6fe}
 
 donate:
-  paypal: https://www.paypal.me/hojuncn
-  alipay: /img/custom/donate/AliPayQR.jpg
-  wechat: /img/custom/donate/WeChanQR.jpg
-  wechatSQ: /img/custom/donate/WeChanSQ.jpg
+  paypal: 
+  alipay: 
+  wechat: 
+  wechatSQ: 
 
 # 视频地址为https://cdn.jsdelivr.net/gh/honjun/hojun@1.2/Unbroken.mp4，配置如下
 movies:
@@ -88,19 +88,19 @@ aplayer:
   mutex: true
 
 # Valine
-valine: true
-v_appId: Ge18SeprCzw0zOeMEwBUHGRx-gzGzoHsz
-v_appKey: 9LBBsah6dRJh4BttwjEnDL9T
+valine: false
+v_appId: qkegd55XlBY42HOkWvhKNW8q-MdYXbMMI
+v_appKey: OvAiKrjcWsCryyPYF0HMMFLR
 
 # Waline
 waline:
-  enable: false
-  serverURL: #服务端地址
-  visitor: false #统计阅读量
+  enable: true
+  serverURL: https://aiupc-comment-836ifuqu3-aiupc.vercel.app/ #服务端地址
+  visitor: true  #统计阅读量
   comment_count: true #统计评论数
   avatar: mp # Gravatar style : mp/identicon/monsterid/wavatar/retro/hide
   guest_info: nick #,mail,link # custom comment header
   pageSize: 10
-  placeholder: 祝开开心心！ # Comment Box placeholder
+  placeholder: 提示：按ctrl+enter键发送评论哦～ # Comment Box placeholder
   requiredFields: [ 'nick','mail' ] #设置必填项
   background: https://gitee.com/cungudafa/source/raw/master/img/gif/Sitich/Sitich2.gif #输入框提示动画
